@@ -1,0 +1,30 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+#myCanvas
+{
+background-color:white;
+border-style:ridge;
+border-width:10px;
+}
+span
+{
+	font-size:20px;
+}
+body{
+  cursor:pointer;
+}
+input
+  {
+    margin-right: 20px;
+  }
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
